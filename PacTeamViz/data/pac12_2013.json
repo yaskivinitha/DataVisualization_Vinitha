@@ -1,0 +1,2429 @@
+{
+  "vertices": [
+    {
+      "_id": 107121408,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Arizona State"
+    },
+    {
+      "_id": 107121664,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Arizona"
+    },
+    {
+      "_id": 107124736,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "California"
+    },
+    {
+      "_id": 107124992,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "UCLA"
+    },
+    {
+      "_id": 107126528,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Colorado"
+    },
+    {
+      "_id": 107140608,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Oregon State"
+    },
+    {
+      "_id": 107140864,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Oregon"
+    },
+    {
+      "_id": 107143680,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "USC"
+    },
+    {
+      "_id": 107144960,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Stanford"
+    },
+    {
+      "_id": 107149568,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Utah"
+    },
+    {
+      "_id": 107150848,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Washington State"
+    },
+    {
+      "_id": 107151104,
+      "_type": "vertex",
+      "Year": 2013,
+      "data_type": "Team",
+      "Conference Name": "Pac-12 Conference",
+      "name": "Washington"
+    },
+    {
+      "_id": 106481664,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 50424,
+      "Home Team Name": "Stanford",
+      "data_type": "Game",
+      "Duration": 210,
+      "latitude": 37.43453,
+      "Stadium Name": "Stanford Stadium",
+      "Visit Team Name": "Arizona State",
+      "longitude": -122.16116,
+      "Date": "09/21/2013"
+    },
+    {
+      "_id": 106509568,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 66960,
+      "Home Team Name": "Notre Dame",
+      "data_type": "Game",
+      "Duration": 223,
+      "Stadium Name": "Cowboys Stadium",
+      "Visit Team Name": "Arizona State",
+      "Date": "10/05/2013"
+    },
+    {
+      "_id": 106562304,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 20617,
+      "Home Team Name": "Washington State",
+      "data_type": "Game",
+      "Duration": 199,
+      "latitude": 46.731815,
+      "Stadium Name": "Martin Stadium",
+      "Visit Team Name": "Arizona State",
+      "longitude": -117.16034,
+      "Date": "10/31/2013"
+    },
+    {
+      "_id": 106577408,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45183,
+      "Home Team Name": "Utah",
+      "data_type": "Game",
+      "Duration": 193,
+      "latitude": 40.760036,
+      "Stadium Name": "Rice Eccles Stadium",
+      "Visit Team Name": "Arizona State",
+      "longitude": -111.84889,
+      "Date": "11/09/2013"
+    },
+    {
+      "_id": 106603520,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 70131,
+      "Home Team Name": "UCLA",
+      "data_type": "Game",
+      "Duration": 193,
+      "latitude": 34.161324,
+      "Stadium Name": "Rose Bowl",
+      "Visit Team Name": "Arizona State",
+      "longitude": -118.167656,
+      "Date": "11/23/2013"
+    },
+    {
+      "_id": 106639360,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 52930,
+      "Home Team Name": "Texas Tech",
+      "data_type": "Game",
+      "Duration": 223,
+      "latitude": 32.781013,
+      "Stadium Name": "Qualcomm Stadium",
+      "Visit Team Name": "Arizona State",
+      "longitude": -117.11962,
+      "Date": "12/30/2013"
+    },
+    {
+      "_id": 106446592,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 55743,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 189,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "Sacramento State",
+      "longitude": -111.93248,
+      "Date": "09/05/2013"
+    },
+    {
+      "_id": 106480640,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 66155,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 210,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "Wisconsin",
+      "longitude": -111.93248,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106503936,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 64987,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 204,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "USC",
+      "longitude": -111.93248,
+      "Date": "09/28/2013"
+    },
+    {
+      "_id": 106525952,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 50104,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 180,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "Colorado",
+      "longitude": -111.93248,
+      "Date": "10/12/2013"
+    },
+    {
+      "_id": 106547456,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 60057,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 199,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "Washington",
+      "longitude": -111.93248,
+      "Date": "10/19/2013"
+    },
+    {
+      "_id": 106597376,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 62386,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 201,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "Oregon State",
+      "longitude": -111.93248,
+      "Date": "11/16/2013"
+    },
+    {
+      "_id": 106621696,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 72542,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 200,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "Arizona",
+      "longitude": -111.93248,
+      "Date": "11/30/2013"
+    },
+    {
+      "_id": 106634496,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 69535,
+      "Home Team Name": "Arizona State",
+      "data_type": "Game",
+      "Duration": 192,
+      "latitude": 33.42644,
+      "Stadium Name": "Sun Devil Stadium",
+      "Visit Team Name": "Stanford",
+      "longitude": -111.93248,
+      "Date": "12/07/2013"
+    },
+    {
+      "_id": 106448128,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 26950,
+      "Home Team Name": "UNLV",
+      "data_type": "Game",
+      "Duration": 210,
+      "latitude": 36.08627,
+      "Stadium Name": "Sam Boyd Stadium",
+      "Visit Team Name": "Arizona",
+      "longitude": -115.01674,
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106497536,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 65815,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 197,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "Arizona",
+      "longitude": -122.33163,
+      "Date": "09/28/2013"
+    },
+    {
+      "_id": 106522368,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 64215,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 203,
+      "latitude": 34.014027,
+      "Stadium Name": "LA Coliseum",
+      "Visit Team Name": "Arizona",
+      "longitude": -118.287964,
+      "Date": "10/10/2013"
+    },
+    {
+      "_id": 106549504,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 38679,
+      "Home Team Name": "Colorado",
+      "data_type": "Game",
+      "Duration": 195,
+      "latitude": 40.00938,
+      "Stadium Name": "Folsom Field",
+      "Visit Team Name": "Arizona",
+      "longitude": -105.26608,
+      "Date": "10/26/2013"
+    },
+    {
+      "_id": 106563840,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 41874,
+      "Home Team Name": "California",
+      "data_type": "Game",
+      "Duration": 208,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "Arizona",
+      "Date": "11/02/2013"
+    },
+    {
+      "_id": 106640384,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 36917,
+      "Home Team Name": "Boston College",
+      "data_type": "Game",
+      "Duration": 186,
+      "latitude": 32.475594,
+      "Stadium Name": "Independence Stadium",
+      "Visit Team Name": "Arizona",
+      "longitude": -93.791985,
+      "Date": "12/31/2013"
+    },
+    {
+      "_id": 106432512,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 53793,
+      "Home Team Name": "Arizona",
+      "data_type": "Game",
+      "Duration": 171,
+      "latitude": 32.228825,
+      "Stadium Name": "Arizona Stadium",
+      "Visit Team Name": "Northern Arizona",
+      "longitude": -110.94881,
+      "Date": "08/30/2013"
+    },
+    {
+      "_id": 106478080,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 41661,
+      "Home Team Name": "Arizona",
+      "data_type": "Game",
+      "Duration": 180,
+      "latitude": 32.228825,
+      "Stadium Name": "Arizona Stadium",
+      "Visit Team Name": "UTSA",
+      "longitude": -110.94881,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106546944,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 50871,
+      "Home Team Name": "Arizona",
+      "data_type": "Game",
+      "Duration": 193,
+      "latitude": 32.228825,
+      "Stadium Name": "Arizona Stadium",
+      "Visit Team Name": "Utah",
+      "longitude": -110.94881,
+      "Date": "10/19/2013"
+    },
+    {
+      "_id": 106579200,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 51531,
+      "Home Team Name": "Arizona",
+      "data_type": "Game",
+      "Duration": 193,
+      "latitude": 32.228825,
+      "Stadium Name": "Arizona Stadium",
+      "Visit Team Name": "UCLA",
+      "longitude": -110.94881,
+      "Date": "11/09/2013"
+    },
+    {
+      "_id": 106600704,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 42080,
+      "Home Team Name": "Arizona",
+      "data_type": "Game",
+      "Duration": 183,
+      "latitude": 32.228825,
+      "Stadium Name": "Arizona Stadium",
+      "Visit Team Name": "Washington State",
+      "longitude": -110.94881,
+      "Date": "11/16/2013"
+    },
+    {
+      "_id": 106612736,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45777,
+      "Home Team Name": "Arizona",
+      "data_type": "Game",
+      "Duration": 184,
+      "latitude": 32.228825,
+      "Stadium Name": "Arizona Stadium",
+      "Visit Team Name": "Oregon",
+      "longitude": -110.94881,
+      "Date": "11/23/2013"
+    },
+    {
+      "_id": 106498304,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 56987,
+      "Home Team Name": "Oregon",
+      "data_type": "Game",
+      "Duration": 205,
+      "latitude": 44.058186,
+      "Stadium Name": "Autzen Stadium",
+      "Visit Team Name": "California",
+      "longitude": -123.06959,
+      "Date": "09/28/2013"
+    },
+    {
+      "_id": 106525440,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 84272,
+      "Home Team Name": "UCLA",
+      "data_type": "Game",
+      "Duration": 186,
+      "latitude": 34.161324,
+      "Stadium Name": "Rose Bowl",
+      "Visit Team Name": "California",
+      "longitude": -118.167656,
+      "Date": "10/12/2013"
+    },
+    {
+      "_id": 106551040,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 66328,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 203,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "California",
+      "longitude": -122.33163,
+      "Date": "10/26/2013"
+    },
+    {
+      "_id": 106590976,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 38252,
+      "Home Team Name": "Colorado",
+      "data_type": "Game",
+      "Duration": 204,
+      "latitude": 40.00938,
+      "Stadium Name": "Folsom Field",
+      "Visit Team Name": "California",
+      "longitude": -105.26608,
+      "Date": "11/16/2013"
+    },
+    {
+      "_id": 106605056,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 50424,
+      "Home Team Name": "Stanford",
+      "data_type": "Game",
+      "Duration": 201,
+      "latitude": 37.43453,
+      "Stadium Name": "Stanford Stadium",
+      "Visit Team Name": "California",
+      "longitude": -122.16116,
+      "Date": "11/23/2013"
+    },
+    {
+      "_id": 106441216,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 58816,
+      "Home Team Name": "California",
+      "data_type": "Game",
+      "Duration": 230,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "Northwestern",
+      "Date": "08/31/2013"
+    },
+    {
+      "_id": 106456832,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 43594,
+      "Home Team Name": "California",
+      "data_type": "Game",
+      "Duration": 220,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "Portland State",
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106476032,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 62467,
+      "Home Team Name": "California",
+      "data_type": "Game",
+      "Duration": 212,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "Ohio State",
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106521344,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 44682,
+      "Home Team Name": "California",
+      "data_type": "Game",
+      "Duration": 232,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "Washington State",
+      "Date": "10/05/2013"
+    },
+    {
+      "_id": 106543616,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 44671,
+      "Home Team Name": "California",
+      "data_type": "Game",
+      "Duration": 200,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "Oregon State",
+      "Date": "10/19/2013"
+    },
+    {
+      "_id": 106584320,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 49199,
+      "Home Team Name": "California",
+      "data_type": "Game",
+      "Duration": 206,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "USC",
+      "Date": "11/09/2013"
+    },
+    {
+      "_id": 106468608,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 91471,
+      "Home Team Name": "Nebraska",
+      "data_type": "Game",
+      "Duration": 201,
+      "latitude": 40.82071,
+      "Stadium Name": "Memorial Stadium",
+      "Visit Team Name": "UCLA",
+      "longitude": -96.706505,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106508288,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45272,
+      "Home Team Name": "Utah",
+      "data_type": "Game",
+      "Duration": 212,
+      "latitude": 40.760036,
+      "Stadium Name": "Rice Eccles Stadium",
+      "Visit Team Name": "UCLA",
+      "longitude": -111.84889,
+      "Date": "10/03/2013"
+    },
+    {
+      "_id": 106537728,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 51424,
+      "Home Team Name": "Stanford",
+      "data_type": "Game",
+      "Duration": 185,
+      "latitude": 37.43453,
+      "Stadium Name": "Stanford Stadium",
+      "Visit Team Name": "UCLA",
+      "longitude": -122.16116,
+      "Date": "10/19/2013"
+    },
+    {
+      "_id": 106551296,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 59206,
+      "Home Team Name": "Oregon",
+      "data_type": "Game",
+      "Duration": 179,
+      "latitude": 44.058186,
+      "Stadium Name": "Autzen Stadium",
+      "Visit Team Name": "UCLA",
+      "longitude": -123.06959,
+      "Date": "10/26/2013"
+    },
+    {
+      "_id": 106622976,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 86037,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 187,
+      "latitude": 34.014027,
+      "Stadium Name": "LA Coliseum",
+      "Visit Team Name": "UCLA",
+      "longitude": -118.287964,
+      "Date": "11/30/2013"
+    },
+    {
+      "_id": 106439424,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 60562,
+      "Home Team Name": "UCLA",
+      "data_type": "Game",
+      "Duration": 201,
+      "latitude": 34.161324,
+      "Stadium Name": "Rose Bowl",
+      "Visit Team Name": "Nevada",
+      "longitude": -118.167656,
+      "Date": "08/31/2013"
+    },
+    {
+      "_id": 106489088,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 58263,
+      "Home Team Name": "UCLA",
+      "data_type": "Game",
+      "Duration": 189,
+      "latitude": 34.161324,
+      "Stadium Name": "Rose Bowl",
+      "Visit Team Name": "New Mexico State",
+      "longitude": -118.167656,
+      "Date": "09/21/2013"
+    },
+    {
+      "_id": 106565120,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 80377,
+      "Home Team Name": "UCLA",
+      "data_type": "Game",
+      "Duration": 196,
+      "latitude": 34.161324,
+      "Stadium Name": "Rose Bowl",
+      "Visit Team Name": "Colorado",
+      "longitude": -118.167656,
+      "Date": "11/02/2013"
+    },
+    {
+      "_id": 106589952,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 68106,
+      "Home Team Name": "UCLA",
+      "data_type": "Game",
+      "Duration": 208,
+      "latitude": 34.161324,
+      "Stadium Name": "Rose Bowl",
+      "Visit Team Name": "Washington",
+      "longitude": -118.167656,
+      "Date": "11/15/2013"
+    },
+    {
+      "_id": 106641152,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 47912,
+      "Home Team Name": "UCLA",
+      "data_type": "Game",
+      "Duration": 224,
+      "latitude": 31.764183,
+      "Stadium Name": "Sun Bowl",
+      "Visit Team Name": "Virginia Tech",
+      "longitude": -106.50601,
+      "Date": "12/31/2013"
+    },
+    {
+      "_id": 106445824,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 59601,
+      "Home Team Name": "Colorado State",
+      "data_type": "Game",
+      "Duration": 217,
+      "latitude": 39.743954,
+      "Stadium Name": "Invesco Field at Mile High",
+      "Visit Team Name": "Colorado",
+      "longitude": -105.02091,
+      "Date": "09/01/2013"
+    },
+    {
+      "_id": 106498816,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 44279,
+      "Home Team Name": "Oregon State",
+      "data_type": "Game",
+      "Duration": 208,
+      "latitude": 44.559486,
+      "Stadium Name": "Reser Stadium",
+      "Visit Team Name": "Colorado",
+      "longitude": -123.281265,
+      "Date": "09/28/2013"
+    },
+    {
+      "_id": 106579456,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 66599,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 168,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "Colorado",
+      "longitude": -122.33163,
+      "Date": "11/09/2013"
+    },
+    {
+      "_id": 106623488,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45023,
+      "Home Team Name": "Utah",
+      "data_type": "Game",
+      "Duration": 197,
+      "latitude": 40.760036,
+      "Stadium Name": "Rice Eccles Stadium",
+      "Visit Team Name": "Colorado",
+      "longitude": -111.84889,
+      "Date": "11/30/2013"
+    },
+    {
+      "_id": 106465280,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 35168,
+      "Home Team Name": "Colorado",
+      "data_type": "Game",
+      "Duration": 205,
+      "latitude": 40.00938,
+      "Stadium Name": "Folsom Field",
+      "Visit Team Name": "Central Arkansas",
+      "longitude": -105.26608,
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106518272,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45944,
+      "Home Team Name": "Colorado",
+      "data_type": "Game",
+      "Duration": 195,
+      "latitude": 40.00938,
+      "Stadium Name": "Folsom Field",
+      "Visit Team Name": "Oregon",
+      "longitude": -105.26608,
+      "Date": "10/05/2013"
+    },
+    {
+      "_id": 106537216,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 36730,
+      "Home Team Name": "Colorado",
+      "data_type": "Game",
+      "Duration": 170,
+      "latitude": 40.00938,
+      "Stadium Name": "Folsom Field",
+      "Visit Team Name": "Charleston So.",
+      "longitude": -105.26608,
+      "Date": "10/19/2013"
+    },
+    {
+      "_id": 106613248,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 36005,
+      "Home Team Name": "Colorado",
+      "data_type": "Game",
+      "Duration": 199,
+      "latitude": 40.00938,
+      "Stadium Name": "Folsom Field",
+      "Visit Team Name": "USC",
+      "longitude": -105.26608,
+      "Date": "11/23/2013"
+    },
+    {
+      "_id": 106476288,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45221,
+      "Home Team Name": "Utah",
+      "data_type": "Game",
+      "Duration": 223,
+      "latitude": 40.760036,
+      "Stadium Name": "Rice Eccles Stadium",
+      "Visit Team Name": "Oregon State",
+      "longitude": -111.84889,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106490112,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 32133,
+      "Home Team Name": "San Diego State",
+      "data_type": "Game",
+      "Duration": 212,
+      "latitude": 32.781013,
+      "Stadium Name": "Qualcomm Stadium",
+      "Visit Team Name": "Oregon State",
+      "longitude": -117.11962,
+      "Date": "09/21/2013"
+    },
+    {
+      "_id": 106531584,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 31955,
+      "Home Team Name": "Washington State",
+      "data_type": "Game",
+      "Duration": 208,
+      "latitude": 46.731815,
+      "Stadium Name": "Martin Stadium",
+      "Visit Team Name": "Oregon State",
+      "longitude": -117.16034,
+      "Date": "10/12/2013"
+    },
+    {
+      "_id": 106619904,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 58330,
+      "Home Team Name": "Oregon",
+      "data_type": "Game",
+      "Duration": 223,
+      "latitude": 44.058186,
+      "Stadium Name": "Autzen Stadium",
+      "Visit Team Name": "Oregon State",
+      "longitude": -123.06959,
+      "Date": "11/29/2013"
+    },
+    {
+      "_id": 106436096,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 41649,
+      "Home Team Name": "Oregon State",
+      "data_type": "Game",
+      "Duration": 212,
+      "latitude": 44.559486,
+      "Stadium Name": "Reser Stadium",
+      "Visit Team Name": "Eastern Washington",
+      "longitude": -123.281265,
+      "Date": "08/31/2013"
+    },
+    {
+      "_id": 106451712,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 38179,
+      "Home Team Name": "Oregon State",
+      "data_type": "Game",
+      "Duration": 215,
+      "latitude": 44.559486,
+      "Stadium Name": "Reser Stadium",
+      "Visit Team Name": "Hawai'i",
+      "longitude": -123.281265,
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106558208,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 44519,
+      "Home Team Name": "Oregon State",
+      "data_type": "Game",
+      "Duration": 190,
+      "latitude": 44.559486,
+      "Stadium Name": "Reser Stadium",
+      "Visit Team Name": "Stanford",
+      "longitude": -123.281265,
+      "Date": "10/26/2013"
+    },
+    {
+      "_id": 106563328,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45379,
+      "Home Team Name": "Oregon State",
+      "data_type": "Game",
+      "Duration": 194,
+      "latitude": 44.559486,
+      "Stadium Name": "Reser Stadium",
+      "Visit Team Name": "USC",
+      "longitude": -123.281265,
+      "Date": "11/01/2013"
+    },
+    {
+      "_id": 106615808,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 43779,
+      "Home Team Name": "Oregon State",
+      "data_type": "Game",
+      "Duration": 212,
+      "latitude": 44.559486,
+      "Stadium Name": "Reser Stadium",
+      "Visit Team Name": "Washington",
+      "longitude": -123.281265,
+      "Date": "11/23/2013"
+    },
+    {
+      "_id": 106636800,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 29106,
+      "Home Team Name": "Oregon State",
+      "data_type": "Game",
+      "Duration": 204,
+      "Stadium Name": "Aloha Stadium",
+      "Visit Team Name": "Boise State",
+      "Date": "12/24/2013"
+    },
+    {
+      "_id": 106456576,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 58502,
+      "Home Team Name": "Virginia",
+      "data_type": "Game",
+      "Duration": 191,
+      "Stadium Name": "Scott Stadium",
+      "Visit Team Name": "Oregon",
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106531840,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 71833,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 201,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "Oregon",
+      "longitude": -122.33163,
+      "Date": "10/12/2013"
+    },
+    {
+      "_id": 106575872,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 51424,
+      "Home Team Name": "Stanford",
+      "data_type": "Game",
+      "Duration": 185,
+      "latitude": 37.43453,
+      "Stadium Name": "Stanford Stadium",
+      "Visit Team Name": "Oregon",
+      "longitude": -122.16116,
+      "Date": "11/07/2013"
+    },
+    {
+      "_id": 106640128,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 65918,
+      "Home Team Name": "Texas",
+      "data_type": "Game",
+      "Duration": 186,
+      "latitude": 29.416893,
+      "Stadium Name": "Alamodome",
+      "Visit Team Name": "Oregon",
+      "longitude": -98.4789,
+      "Date": "12/30/2013"
+    },
+    {
+      "_id": 106439936,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 57769,
+      "Home Team Name": "Oregon",
+      "data_type": "Game",
+      "Duration": 219,
+      "latitude": 44.058186,
+      "Stadium Name": "Autzen Stadium",
+      "Visit Team Name": "Nicholls State",
+      "longitude": -123.06959,
+      "Date": "08/31/2013"
+    },
+    {
+      "_id": 106477568,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 57895,
+      "Home Team Name": "Oregon",
+      "data_type": "Game",
+      "Duration": 194,
+      "latitude": 44.058186,
+      "Stadium Name": "Autzen Stadium",
+      "Visit Team Name": "Tennessee",
+      "longitude": -123.06959,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106547200,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 56949,
+      "Home Team Name": "Oregon",
+      "data_type": "Game",
+      "Duration": 218,
+      "latitude": 44.058186,
+      "Stadium Name": "Autzen Stadium",
+      "Visit Team Name": "Washington State",
+      "longitude": -123.06959,
+      "Date": "10/19/2013"
+    },
+    {
+      "_id": 106600448,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 56481,
+      "Home Team Name": "Oregon",
+      "data_type": "Game",
+      "Duration": 195,
+      "latitude": 44.058186,
+      "Stadium Name": "Autzen Stadium",
+      "Visit Team Name": "Utah",
+      "longitude": -123.06959,
+      "Date": "11/16/2013"
+    },
+    {
+      "_id": 106429952,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 39058,
+      "Home Team Name": "Hawai'i",
+      "data_type": "Game",
+      "Duration": 223,
+      "Stadium Name": "Aloha Stadium",
+      "Visit Team Name": "USC",
+      "Date": "08/29/2013"
+    },
+    {
+      "_id": 106544640,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 80795,
+      "Home Team Name": "Notre Dame",
+      "data_type": "Game",
+      "Duration": 198,
+      "Stadium Name": "Notre Dame Stadium",
+      "Visit Team Name": "USC",
+      "Date": "10/19/2013"
+    },
+    {
+      "_id": 106464000,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 77823,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 186,
+      "latitude": 34.014027,
+      "Stadium Name": "LA Coliseum",
+      "Visit Team Name": "Washington State",
+      "longitude": -118.287964,
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106467840,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 62006,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 169,
+      "latitude": 34.014027,
+      "Stadium Name": "LA Coliseum",
+      "Visit Team Name": "Boston College",
+      "longitude": -118.287964,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106493696,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 63482,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 199,
+      "latitude": 34.014027,
+      "Stadium Name": "LA Coliseum",
+      "Visit Team Name": "Utah State",
+      "longitude": -118.287964,
+      "Date": "09/21/2013"
+    },
+    {
+      "_id": 106560512,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 64715,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 183,
+      "latitude": 34.014027,
+      "Stadium Name": "LA Coliseum",
+      "Visit Team Name": "Utah",
+      "longitude": -118.287964,
+      "Date": "10/26/2013"
+    },
+    {
+      "_id": 106599168,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 93607,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 191,
+      "latitude": 34.014027,
+      "Stadium Name": "LA Coliseum",
+      "Visit Team Name": "Stanford",
+      "longitude": -118.287964,
+      "Date": "11/16/2013"
+    },
+    {
+      "_id": 106635776,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 42178,
+      "Home Team Name": "USC",
+      "data_type": "Game",
+      "Duration": 215,
+      "latitude": 36.08627,
+      "Stadium Name": "Sam Boyd Stadium",
+      "Visit Team Name": "Fresno State",
+      "longitude": -115.01674,
+      "Date": "12/21/2013"
+    },
+    {
+      "_id": 106477056,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 39644,
+      "Home Team Name": "Army",
+      "data_type": "Game",
+      "Duration": 191,
+      "latitude": 41.38756,
+      "Stadium Name": "Michie Stadium",
+      "Visit Team Name": "Stanford",
+      "longitude": -73.96419,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106504704,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 40095,
+      "Home Team Name": "Washington State",
+      "data_type": "Game",
+      "Duration": 208,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "Stanford",
+      "longitude": -122.33163,
+      "Date": "09/28/2013"
+    },
+    {
+      "_id": 106533376,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45372,
+      "Home Team Name": "Utah",
+      "data_type": "Game",
+      "Duration": 188,
+      "latitude": 40.760036,
+      "Stadium Name": "Rice Eccles Stadium",
+      "Visit Team Name": "Stanford",
+      "longitude": -111.84889,
+      "Date": "10/12/2013"
+    },
+    {
+      "_id": 106642432,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 95173,
+      "Home Team Name": "Michigan State",
+      "data_type": "Game",
+      "Duration": 199,
+      "latitude": 34.161324,
+      "Stadium Name": "Rose Bowl",
+      "Visit Team Name": "Stanford",
+      "longitude": -118.167656,
+      "Date": "01/01/2014"
+    },
+    {
+      "_id": 106458368,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 50424,
+      "Home Team Name": "Stanford",
+      "data_type": "Game",
+      "Duration": 180,
+      "latitude": 37.43453,
+      "Stadium Name": "Stanford Stadium",
+      "Visit Team Name": "San Jose State",
+      "longitude": -122.16116,
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106521600,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 50424,
+      "Home Team Name": "Stanford",
+      "data_type": "Game",
+      "Duration": 198,
+      "latitude": 37.43453,
+      "Stadium Name": "Stanford Stadium",
+      "Visit Team Name": "Washington",
+      "longitude": -122.16116,
+      "Date": "10/05/2013"
+    },
+    {
+      "_id": 106627072,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 50537,
+      "Home Team Name": "Stanford",
+      "data_type": "Game",
+      "Duration": 195,
+      "latitude": 37.43453,
+      "Stadium Name": "Stanford Stadium",
+      "Visit Team Name": "Notre Dame",
+      "longitude": -122.16116,
+      "Date": "11/30/2013"
+    },
+    {
+      "_id": 106493952,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 63470,
+      "Home Team Name": "BYU",
+      "data_type": "Game",
+      "Duration": 206,
+      "latitude": 40.2575,
+      "Stadium Name": "LaVell Edwards Stadium",
+      "Visit Team Name": "Utah",
+      "longitude": -111.65458,
+      "Date": "09/21/2013"
+    },
+    {
+      "_id": 106615040,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 23112,
+      "Home Team Name": "Washington State",
+      "data_type": "Game",
+      "Duration": 221,
+      "latitude": 46.731815,
+      "Stadium Name": "Martin Stadium",
+      "Visit Team Name": "Utah",
+      "longitude": -117.16034,
+      "Date": "11/23/2013"
+    },
+    {
+      "_id": 106430976,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45237,
+      "Home Team Name": "Utah",
+      "data_type": "Game",
+      "Duration": 211,
+      "latitude": 40.760036,
+      "Stadium Name": "Rice Eccles Stadium",
+      "Visit Team Name": "Utah State",
+      "longitude": -111.84889,
+      "Date": "08/29/2013"
+    },
+    {
+      "_id": 106464256,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 45053,
+      "Home Team Name": "Utah",
+      "data_type": "Game",
+      "Duration": 186,
+      "latitude": 40.760036,
+      "Stadium Name": "Rice Eccles Stadium",
+      "Visit Team Name": "Weber State",
+      "longitude": -111.84889,
+      "Date": "09/07/2013"
+    },
+    {
+      "_id": 106444288,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 85095,
+      "Home Team Name": "Auburn",
+      "data_type": "Game",
+      "Duration": 220,
+      "latitude": 32.602196,
+      "Stadium Name": "Jordan-Hare Stadium",
+      "Visit Team Name": "Washington State",
+      "longitude": -85.48906,
+      "Date": "08/31/2013"
+    },
+    {
+      "_id": 106621184,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 71753,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 199,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "Washington State",
+      "longitude": -122.33163,
+      "Date": "11/29/2013"
+    },
+    {
+      "_id": 106636288,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 27104,
+      "Home Team Name": "Colorado State",
+      "data_type": "Game",
+      "Duration": 246,
+      "latitude": 35.09289,
+      "Stadium Name": "University Stadium",
+      "Visit Team Name": "Washington State",
+      "longitude": -106.62295,
+      "Date": "12/21/2013"
+    },
+    {
+      "_id": 106476800,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 31127,
+      "Home Team Name": "Washington State",
+      "data_type": "Game",
+      "Duration": 191,
+      "latitude": 46.731815,
+      "Stadium Name": "Martin Stadium",
+      "Visit Team Name": "Southern Utah",
+      "longitude": -117.16034,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106485504,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 31521,
+      "Home Team Name": "Washington State",
+      "data_type": "Game",
+      "Duration": 185,
+      "latitude": 46.731815,
+      "Stadium Name": "Martin Stadium",
+      "Visit Team Name": "Idaho",
+      "longitude": -117.16034,
+      "Date": "09/21/2013"
+    },
+    {
+      "_id": 106479360,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 47312,
+      "Home Team Name": "Illinois",
+      "data_type": "Game",
+      "Duration": 193,
+      "latitude": 41.86216,
+      "Stadium Name": "Soldier Field",
+      "Visit Team Name": "Washington",
+      "longitude": -87.61668,
+      "Date": "09/14/2013"
+    },
+    {
+      "_id": 106434560,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 71963,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 180,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "Boise State",
+      "longitude": -122.33163,
+      "Date": "08/31/2013"
+    },
+    {
+      "_id": 106485248,
+      "_type": "vertex",
+      "Site": "TEAM",
+      "attendance": 67093,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 176,
+      "latitude": 47.5951,
+      "Stadium Name": "CenturyLink Field",
+      "Visit Team Name": "Idaho State",
+      "longitude": -122.33163,
+      "Date": "09/21/2013"
+    },
+    {
+      "_id": 106637568,
+      "_type": "vertex",
+      "Site": "NEUTRAL",
+      "attendance": 34136,
+      "Home Team Name": "Washington",
+      "data_type": "Game",
+      "Duration": 202,
+      "latitude": 37.77814,
+      "Stadium Name": "AT&T Park",
+      "Visit Team Name": "BYU",
+      "longitude": -122.387535,
+      "Date": "12/27/2013"
+    }
+  ],
+  "edges": [
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106429952,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106456832,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106481664,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106481664,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106485504,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106485248,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106489088,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106490112,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106493696,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106493952,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106446592,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106480640,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106448128,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106451712,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106456576,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106445824,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106432512,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106430976,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106436096,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106439936,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106434560,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106478080,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106477568,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106476288,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106476288,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106479360,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106441216,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106444288,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106439424,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106476032,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106468608,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106467840,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106477056,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106476800,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106465280,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106464000,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106464000,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106458368,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106464256,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106525952,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106525952,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106509568,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106503936,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106503936,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106504704,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106504704,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106547456,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106547456,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106497536,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106497536,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106498816,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106498816,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106522368,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106522368,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106508288,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106508288,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106518272,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106518272,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106521344,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106521344,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106521600,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106521600,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106549504,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106549504,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106551296,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106551296,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106558208,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106558208,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106560512,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106560512,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106551040,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106551040,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106546944,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106546944,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106547200,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106547200,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106525440,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106525440,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106531584,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106531584,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106533376,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106533376,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106531840,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106531840,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106537728,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106537728,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106537216,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106544640,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106543616,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106543616,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106498304,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106498304,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106597376,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106597376,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106577408,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106577408,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106562304,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106562304,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106563328,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106563328,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106603520,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106603520,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106621696,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106621696,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106621184,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106621184,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106619904,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106619904,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106615808,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106615808,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106615040,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106615040,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106622976,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106622976,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106623488,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106623488,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106563840,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106563840,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106565120,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106565120,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106579200,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106579200,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106579456,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106579456,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106575872,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106575872,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106590976,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106590976,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106589952,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106589952,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106584320,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106584320,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106600704,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106600704,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107149568,
+      "_outV": 106600448,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106600448,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106599168,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106599168,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106612736,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106612736,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124736,
+      "_outV": 106605056,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106605056,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106613248,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107126528,
+      "_outV": 106613248,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107143680,
+      "_outV": 106635776,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121664,
+      "_outV": 106640384,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106639360,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106634496,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107121408,
+      "_outV": 106634496,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107124992,
+      "_outV": 106641152,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107151104,
+      "_outV": 106637568,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140608,
+      "_outV": 106636800,
+      "_label": "home team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107140864,
+      "_outV": 106640128,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107150848,
+      "_outV": 106636288,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106642432,
+      "_label": "visiting team"
+    },
+    {
+      "_type": "edge",
+      "_inV": 107144960,
+      "_outV": 106627072,
+      "_label": "home team"
+    }
+  ],
+  "mode": "NORMAL"
+}
